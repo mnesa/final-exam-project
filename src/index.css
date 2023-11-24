@@ -1,0 +1,43 @@
+.primare-bg{
+  background-color: #06a2dc;
+  }
+
+  .saecondare-bg{
+  background-color: #0a1e3e;
+  }
+  .darke-bg{
+    background-color: #04152b;
+  }
+  .skye-bg{
+    background-color: #edfbfd;
+  }
+  .primare-text{
+   color: #06a2dc;
+    }
+  .darke-text{
+    color: #333;
+  }
+  .lighte-text{
+    color: #ddd;
+  }
+  .primare-text{
+    color: #06a2dc;
+      }
+      .secondarye-text{
+        color: #0a1e3e;
+        }
+  .m-top{
+    margin-top: 4.5rem;
+  }
+  .primare-btn{
+    background-color: #06a2dc;
+    color: #fff;
+    padding: 8px 12px;
+    border: 0;
+    border-radius: 8px;
+    font-weight: 700;
+  }
+ 
+  
+ 
+  

@@ -1,0 +1,5 @@
+.shopBanner{
+  background: url(../../../assets/images/shop-banner.jpeg) no-repeat center center/cover;
+  height: 250px;
+  background-blend-mode: overlay;
+}
